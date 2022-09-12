@@ -26,7 +26,13 @@ public class Main {
         changeValue4(value4);
         System.out.println(Arrays.toString(value4));
 
+        System.out.println("Задание 9");
+        Person person = new Person("Lyapis", "Trubetskoy");
+        System.out.println("person = "+person);
 
+        System.out.println("Задание 10");
+        Person2 person2 = new Person2("Lyapis", "Trubetskoy");
+        System.out.println("person2 = "+person2);
 
     }
 
